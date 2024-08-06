@@ -2,7 +2,6 @@ import React from 'react'
 
 const WeatherApp = () => {
   return (
-    <div>
         <div className='container'>
             <div className='top'>
                 <div className='location'><p>London</p></div>
@@ -15,7 +14,6 @@ const WeatherApp = () => {
                 <div className='wind '> 4.63 m/s</div>
             </div>
         </div>
-    </div>
   )
 }
 
